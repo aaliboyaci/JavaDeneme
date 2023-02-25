@@ -1,0 +1,6 @@
+public class Apples {
+    public static void main(String args[]) {
+        System.out.println("ceyda benim karım!");
+        System.out.println("karım da karım");
+    }
+}
