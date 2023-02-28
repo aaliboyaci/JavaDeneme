@@ -43,6 +43,7 @@ public class cinemaTicketSystem {
         int row, column;
         // kullanıcı yanlışdeğer girerse diye tekrar başa atsın istiyorum. minik bir
         // error kontrol yöntemi
+       while(true){
         System.out.println();
         System.out.println("Which seat you want to choose?");
         System.out.println();
@@ -59,9 +60,9 @@ public class cinemaTicketSystem {
             System.out.println();
             System.out.println("!!! False input, Try again !!!");
             System.out.println();
-        } else {
+        } else {break;
 
-        }
+        }}
 
         // satır sütunu güncelle
         seats[row][column] = 1;
