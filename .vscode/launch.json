@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Apples",
+            "request": "launch",
+            "mainClass": "Apples",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "arrayDisplayTest",
+            "request": "launch",
+            "mainClass": "arrayDisplayTest",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "arrayTest2",
+            "request": "launch",
+            "mainClass": "arrayTest2",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "cinemaTicketSystem",
+            "request": "launch",
+            "mainClass": "cinemaTicketSystem.cinemaTicketSystem",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "collegeSystem",
+            "request": "launch",
+            "mainClass": "collegeSystem.collegeSystem",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "deneme",
+            "request": "launch",
+            "mainClass": "collegeSystem.deneme",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "denemeTest2",
+            "request": "launch",
+            "mainClass": "denemeTest2",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "dikdortgen",
+            "request": "launch",
+            "mainClass": "dikdortgen",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "dikdortgen2",
+            "request": "launch",
+            "mainClass": "dikdortgen2",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "dikdortgen3",
+            "request": "launch",
+            "mainClass": "dikdortgen3",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "dikdortgen4",
+            "request": "launch",
+            "mainClass": "dikdortgen4",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciLoop",
+            "request": "launch",
+            "mainClass": "fibonacciLoop",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "fileWriteReadTest",
+            "request": "launch",
+            "mainClass": "fileWriterReaderTest.fileWriteReadTest",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "userInput",
+            "request": "launch",
+            "mainClass": "fileWriterReaderTest.userInput",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "gameNeo",
+            "request": "launch",
+            "mainClass": "gameNeo",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "kosullarTest",
+            "request": "launch",
+            "mainClass": "kosullarTest",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "metotdeneme",
+            "request": "launch",
+            "mainClass": "metotdeneme",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "multipleclasstest",
+            "request": "launch",
+            "mainClass": "multipleclasstest",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "numberGuess",
+            "request": "launch",
+            "mainClass": "numberGuessGame.numberGuess",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "ortalamaHesap",
+            "request": "launch",
+            "mainClass": "ortalamaHesap",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "sevgilimTirtil",
+            "request": "launch",
+            "mainClass": "sevgilimTirtil.sevgilimTirtil",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "sevgilimTirtil2",
+            "request": "launch",
+            "mainClass": "sevgilimTirtil2",
+            "projectName": "javadeneme_8164229f"
+        },
+        {
+            "type": "java",
+            "name": "toplama",
+            "request": "launch",
+            "mainClass": "toplama",
+            "projectName": "javadeneme_8164229f"
+        }
+    ]
+}
